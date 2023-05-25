@@ -1,5 +1,5 @@
 # Customer Segmentation Analysis using K-means Algorithm
-Project Logo (if applicable)
+
 
 ## Overview
 Welcome to my GitHub profile! This repository showcases my project on Customer Segmentation Analysis using the K-means algorithm. The project aims to segment customers based on their behavior and characteristics, helping businesses gain valuable insights into their customer base and make data-driven decisions.
